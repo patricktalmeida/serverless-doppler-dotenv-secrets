@@ -1,0 +1,24 @@
+{
+  "name": "serverless-doppler-dotenv-secrets",
+  "version": "1.0.0",
+  "description": "Fetch secrets from Doppler API and create .env file",
+  "author": "Patrick Almeida",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patricktalmeida/serverless-doppler-dotenv-secrets"
+  },
+  "keywords": [
+    "serverless",
+    "serverless plugin",
+    "doppler",
+    "dotenv",
+    "parameters",
+    "parameter",
+    "secrets"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
